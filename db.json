@@ -1,5 +1,6 @@
-[
-   {
+{
+   "branches": [
+      {
       "id": 1,
       "BranchID":"408573BB-FD13-45D3-91AF-0476FC697259",
       "ParentCompanyID":"913386B9-A58F-4659-8695-CA5F4B8BA9F4",
@@ -53,4 +54,5 @@
       "ExternalName":"Test Branch 3 Industrial",
       "ICECode":"026"
    }
-]
+   ]
+}
