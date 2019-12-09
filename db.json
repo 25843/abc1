@@ -1,6 +1,6 @@
 [
    {
-      "id": "1",
+      "id": 1,
       "BranchID":"408573BB-FD13-45D3-91AF-0476FC697259",
       "ParentCompanyID":"913386B9-A58F-4659-8695-CA5F4B8BA9F4",
       "DivsionCode":"222",
@@ -18,7 +18,7 @@
       "ICECode":"020"
    },
    {
-      "id": "2",
+      "id": 2,
       "BranchID":"65936EC4-A10C-4BC2-8D2C-0B3735344337",
       "ParentCompanyID":"913386B9-A58F-4659-8695-CA5F4B8BA9F4",
       "DivsionCode":"232",
@@ -36,7 +36,7 @@
       "ICECode":"024"
    },
    {
-      "id": "3",
+      "id": 3,
       "BranchID":"AF5F4C67-21D4-48A0-952A-0D3B9EA26C08",
       "ParentCompanyID":"913386B9-A58F-4659-8695-CA5F4B8BA9F4",
       "DivsionCode":"622",
